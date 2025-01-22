@@ -7,15 +7,15 @@
 
 ## Table of Contents
 
-1. [Overview](#overview)
-2.  [Features](#features)
-3.  [Installation and Setup](#installation-and-setup)
-4.  [EmailJS Configuration](#emailjs-configuration)
-5.  [Environment Variables](#environment-variables)
-6.  [Project Structure](#project-structure)
-7.  [Deploying the Project](#deploying-the-project)
-8.  [GitHub Repository](#github-repository)
-9.  [License](#license)
+1. [Overview](#Overview)
+2.  [Features](#Features)
+3.  [Installation and Setup](#Installation-and-setup)
+4.  [EmailJS Configuration](#Emailjs-configuration)
+5.  [Environment Variables](#Environment-variables)
+6.  [Project Structure](#Project-structure)
+7.  [Deploying the Project](#Deploying-the-project)
+8.  [GitHub Repository](#Github-repository)
+9.  [License](#License)
 
 ----------
 
